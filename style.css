@@ -1,0 +1,19 @@
+#article_container {
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 20px;
+    text-align: center;
+}
+#art1 {
+    background-color: red;
+
+}
+#art2 {
+    background-color: green;
+}
+#art3 {
+    background-color: blue;
+}
+#art4 {
+    background-color: purple;
+}
